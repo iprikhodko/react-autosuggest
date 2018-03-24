@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-autowhatever": "^10.1.0",
+    "react-autowhatever": "iprikhodko/react-autowhatever#b7a657a1cbb71",
     "shallow-equal": "^1.0.0"
   },
   "peerDependencies": {
