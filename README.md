@@ -6,6 +6,12 @@
 [![npm Version](https://img.shields.io/npm/v/react-autosuggest.svg?style=flat-square)](https://npmjs.org/package/react-autosuggest)
 ![gzip size](http://img.badgesize.io/https://unpkg.com/react-autosuggest/dist/standalone/autosuggest.min.js?compression=gzip&style=flat-square)
 
+# Fork changes
+
+* Changed react-autowhatever dependency [on](https://github.com/iprikhodko/react-autowhatever)
+* Supported Layout prop enabling to change layout by default
+* Added dist/ to repository for using in another packages
+
 # React Autosuggest
 
 ## Demo
